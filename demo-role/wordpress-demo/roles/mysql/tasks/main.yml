@@ -1,6 +1,6 @@
 ---
 - name: install python mysql bindings
-  apt: name=python-mysqldb state=installed
+  apt: name=python-mysqldb state=present
   become: yes
   become_method: sudo
   

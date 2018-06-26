@@ -3,3 +3,4 @@
 wp_mysql_db: wordpress
 wp_mysql_user: wordpress
 wp_mysql_password: TetraCloud123$
+wp_mysql_host: wordpress.ciftrkiylmye.us-east-1.rds.amazonaws.com
